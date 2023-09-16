@@ -125,10 +125,4 @@ order by m.nombre_modelo, ma.nombre_marca, g.nombre_grupo;
 
 
 
-
-
-
-
-
-
 insert into vehiculos.vehiculo (matricula, color, num_kms, fecha_compra, num_poliza, id_modelo, id_compania, id_revision) values ('1020BMP', 'Blanco', '80000', '2004-05-21', '102059', '2', '3', '2' );
